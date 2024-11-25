@@ -1,12 +1,12 @@
 module.exports = {
-  "ALIVE_IMG": "https://raw.githubusercontent.com/Niko-AND-Janiya/ANJU-DATA/refs/heads/main/WhatsApp%20Image%202024-09-08%20at%209.00.17%20PM.jpeg",
+  "ALIVE_IMG": "https://files.catbox.moe/vdheyh.jpg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
-  "MODE": "public",
-  "BOT_NUMBER": "94717775628",
+  "MODE": "private",
+  "BOT_NUMBER": "94726884134",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
-  "AUTO_VOICE": false,
+  "AUTO_VOICE": true,
   "AUTO_STICKER": false,
   "AUTO_REPLY": true,
   "AUTO_REACT": false,
@@ -17,11 +17,11 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "🍂🖤𝗞𝗜𝗡𝗚 𝗔𝗡𝗝𝗔𝗡𝗔 𝗕𝗕𝗛 💦🥵🍂",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
-  "OWNER_REACT": false,
-  "EMOJI": "🏷"
+  "OWNER_REACT": true,
+  "EMOJI": "🗿"
 };
