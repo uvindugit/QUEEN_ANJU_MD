@@ -15,7 +15,7 @@ module.exports = {
   "ANTI_BOT": true,
   "ANTI_LINK": true,
   "ANTI_CALL": false,
-  "ANTI_DELETE": true,
+  "ANTI_DELETE": false,
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
@@ -23,7 +23,7 @@ module.exports = {
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
-  "AUTO_NEWS": true,
+  "AUTO_NEWS": false,
   "OWNER_REACT": false,
   "EMOJI": "🏷"
 };
