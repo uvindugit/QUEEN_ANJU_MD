@@ -3,7 +3,7 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "inbox",
-  "BOT_NUMBER": "94717775628",
+  "BOT_NUMBER": "94773962796",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
   "AUTO_VOICE": false,
@@ -15,15 +15,15 @@ module.exports = {
   "ANTI_BOT": true,
   "ANTI_LINK": true,
   "ANTI_CALL": false,
-  "ANTI_DELETE": false,
+  "ANTI_DELETE": true,
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": " ᴋɪɴɢ-ᴀɴᴊᴀɴᴀ :ввн׀",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false,
-  "OWNER_REACT": false,
-  "EMOJI": "🏷"
+  "OWNER_REACT": true,
+  "EMOJI": "💀"
 };
