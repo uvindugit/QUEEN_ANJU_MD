@@ -40,14 +40,14 @@ And Subscribe GAMING RASH and give one star for queen anju.
 
    @SITE 1
    <p align="center">
-       <a href="https://multiple-kingfisher-gamingrash-6eb80034.koyeb.app/">
+       <a href="https://similar-tarantula-gamingrash-eb07f801.koyeb.app/">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
    
       @SITE 2
    <p align="center">
-       <a href="https://mine-xh2t.onrender.com">
+       <a href="https://anju-pair.onrender.com">
          <img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="90" />
        </a>
    </p>
