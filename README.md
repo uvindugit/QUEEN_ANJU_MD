@@ -72,3 +72,4 @@ And Subscribe GAMING RASH and give one star for queen anju.
    4..DEPLOY ON HEROKU
 
  [![nima](https://img.shields.io/badge/Queen_Anju_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/Mrrashmika/QUEEN_ANJU_MD)
+
